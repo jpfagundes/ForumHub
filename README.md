@@ -11,7 +11,7 @@ Proposto pela Oracle Next Education, na formação de Back-end Java, em parceria
 
 <br>
 <div align="center">
-  <img alt="Badge conclusão do challenge ONE" src="C:\Users\Jp.Fagundes\OneDrive\Desktop\Projetos\IntelliJ\ForumHub\api\Badge-Spring.png" width="10" height="10">
+  <img alt="Badge-Spring.png">
 </div>
 <br>
 
